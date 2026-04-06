@@ -1,4 +1,4 @@
-#  Business Performance & Profit Optimization Dashboard
+#  Business Performance & Profit Optimization Analysis
 
 ## 🏢 Company Background
 This project simulates a real-world retail company, **Nova Retail Pvt Ltd**, operating across multiple product categories such as Electronics, Fashion, and Home & Living, with presence in multiple regions.
